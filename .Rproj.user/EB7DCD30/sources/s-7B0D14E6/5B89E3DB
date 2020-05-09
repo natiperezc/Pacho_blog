@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587683628385.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5B89E3DB",
+    "lastKnownWriteTime" : 1588814523,
+    "last_content_update" : 1588814523,
+    "path" : "~/web_unidad_apoyo_estadistico/Blog_Pacho/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "7,17",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
