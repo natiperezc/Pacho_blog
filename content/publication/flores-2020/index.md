@@ -20,17 +20,17 @@ publication_short: ""
 publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+#slides: example
 summary: El manejo intensivo tiene un impacto negativo en la produccion de papaya y sus enemigos naturales.
 tags:
-- Source Themes
+- management
 title: Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations
 url_code: ""
 url_dataset: ""
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167880920300219
 url_poster: ""
 url_project: ""
-url_slides: ""
+#url_slides: ""
 url_source: ""
 url_video: ""
 ---
@@ -39,8 +39,3 @@ url_video: ""
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

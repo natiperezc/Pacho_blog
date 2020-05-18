@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posgrado | Francisco Mora</title>
+    <link>/tag/posgrado/</link>
+      <atom:link href="/tag/posgrado/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posgrado</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posgrado</title>
+      <link>/tag/posgrado/</link>
+    </image>
+    
+    <item>
+      <title>Posgrado</title>
+      <link>/courses/posgrado/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/courses/posgrado/</guid>
+      <description>&lt;p&gt;La unidad participa en asignaturas al interior del Posgrado de Ciencias Biológicas y Posgrado en Ciencias de la Sostenibilidad:&lt;/p&gt;
+&lt;h1 id=&#34;1-modelación-estadística&#34;&gt;1. Modelación Estadística&lt;/h1&gt;
+&lt;h1 id=&#34;2-introducción-al-diseño-experimental-y-al-análisis-de-datos&#34;&gt;2. Introducción al Diseño Experimental y al Análisis de Datos&lt;/h1&gt;
+&lt;h1 id=&#34;3-introducción-al-lenguaje-r&#34;&gt;3. Introducción al lenguaje R&lt;/h1&gt;
+&lt;p&gt;El objetivo de este curso es que el alumno comprenda los fundamentos del lenguaje de programación “R” y los aplique en sus trabajos de investigación&lt;/p&gt;
+&lt;h1 id=&#34;imagesintroduccion_rjpg&#34;&gt;&lt;img src=&#34;../images/introduccion_r.jpg&#34; alt=&#34;&#34;&gt;&lt;/h1&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2020-2/introduccion_al_lenguaje__r.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -14,9 +14,9 @@
     
     <item>
       <title>Viernes de Código</title>
-      <link>/project/viernes-de-codigo/</link>
+      <link>/projects/viernes-de-codigo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/viernes-de-codigo/</guid>
+      <guid>/projects/viernes-de-codigo/</guid>
       <description>&lt;p&gt;El lenguaje R se ha convertido en la &lt;em&gt;lingua franca&lt;/em&gt; para el desarrollo del análisis de datos de nuestras investigaciones. Sin embargo, muchas veces su uso constituye un reto, tomándonos horas o hasta días encontrar la solución a pequeños (o grandes) problemas en su implementación.&lt;/p&gt;
 &lt;p&gt;Con el fin de aportar un mecanismo que contribuya a reducir el tiempo y el esfuerzo requerido para el uso del lenguaje R, desde la Unidad de Apoyo en Estadística, Modelación y Manejo de Datos del IIEs creamos los &lt;strong&gt;vieRnes de código&lt;/strong&gt;: un espacio en el cual los miembros de la comunidad IIES podrán intercambiar soluciones y propuestas respecto a dudas y problemas relacionados con la ejecución de código de R.&lt;/p&gt;
 </description>

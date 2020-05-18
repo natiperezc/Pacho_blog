@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/en/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/new-posy/</loc>
+    <lastmod>2020-05-12T12:21:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2020-05-12T12:21:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication-type/1/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/ana-maria-flores-gutierreza/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/flores-2020/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/author/ek-del-val/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/francisco-mora/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/karina-boege/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/luis-daniel-avila-cabadilla/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/source-themes/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tags/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/project/escuela-de-metodos/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/escuela-de-metodos/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/project/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/chamela/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication-type/2/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/gavito-2019/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/iver-jakobsen/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/mayra-e.-gavito/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/teis-n.-mikkelsen/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/rozendaal-2019/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/danae-m.-a.-rozendaal/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/ecology/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/esteban-alvarez-davila/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/frans-bongers/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/lourens-poorter/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/nataly-ascarrunz/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/otros-autores/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/t.-mitchell-aide/</loc>
+    <lastmod>2019-05-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/78-autores-mas/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/community-ecology/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/forest-ecology/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/mark-westoby/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/tropical-ecology/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/poorter-2019/</loc>
+    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication-type/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/agrarian-communities/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/alejandro-casas/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/david-gonzalez-jimenez/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/eduardo-garcia-frapolli/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/ejidos/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/monroy-2018/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/jalisco-coast/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/management-decisions/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/margaret-skutsch/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/natural-resources/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/peter-rijnaldus-wilhelmus-gerritsen/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/sofia-monroy-sais/</loc>
+    <lastmod>2018-11-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/ana-lidia-sandoval-perez/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/angelina-martinez-yrizar/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/angelica-santibanez-renteria/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/claudia-urquijo-ramos/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/danielcohen-salgado/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/felipe-arreola/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/ilyas-siddique/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/karem-del-castillo/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/maria-elena-colarte-aviles/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/mayra-e.gavito/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/miguel-martinez-ramos/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/patricia-balvanera/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/radika-bhaskar/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/resilience/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/gavito-2018/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/bhaskar-2018/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/secondary-forests/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/tropical-dry-forest/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/agroecosystems/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/antonio-gonzalez-rodriguez/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/john-larsen/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/marcela-sarabia/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/plant-growth/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/sarabia-2018/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/saila-cazares/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/yazmin-carreon-abud/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/2ndfor/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/project/red-mexlter/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/red-mexlter/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/project/2ndfor/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/viernes/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/project/viernes-de-codigo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/alfonso-diaz-rojas/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/ellen-andresen/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/gabriel-ramos-fernande/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/journal-article-copia-6/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/urrea-galeano-2019/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/lina-adonay-urrea-galeano/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/rosamond-coates/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/publication/conference-paper/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/author/robert-ford/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

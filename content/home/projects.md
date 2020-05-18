@@ -3,14 +3,14 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
 title = "Proyectos y grupos de trabajo"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "project"
+  page_type = "projects"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -21,26 +21,27 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Todos"
-    tag = "*"
+#  [[content.filter_button]]
+#    name = "Todos"
+#    tag = "*"
+ 
+#  [[content.filter_button]]
+#    name = "Escuela de métodos"
+#    tag = "Escuela de métodos"
   
-  [[content.filter_button]]
-    name = "Escuela de métodos"
-    tag = "Escuela de métodos"
-  
-  [[content.filter_button]]
-    name = "VieRnes"
-    tag = "VieRnes"
+#  [[content.filter_button]]
+#    name = "VieRnes"
+#    tag = "VieRnes"
 
-  [[content.filter_button]]
-    name = "2ndFOR"
-    tag = "2ndFOR"
+#  [[content.filter_button]]
+#    name = "2ndFOR"
+#    tag = "2ndFOR"
 
-  [[content.filter_button]]
-    name = "Red MexLTER"
-    tag = "Red MexLTER"
-    
+#  [[content.filter_button]]
+#    name = "Red MexLTER"
+#    tag = "Red MexLTER"
+
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

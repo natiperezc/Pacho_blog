@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2ndFOR | Francisco Mora</title>
+    <link>/es/tag/2ndfor/</link>
+      <atom:link href="/es/tag/2ndfor/index.xml" rel="self" type="application/rss+xml" />
+    <description>2ndFOR</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>es</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2ndFOR</title>
+      <link>/es/tag/2ndfor/</link>
+    </image>
+    
+    <item>
+      <title>Secondary Forests Research Network</title>
+      <link>/es/project/2ndfor/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/es/project/2ndfor/</guid>
+      <description>&lt;p&gt;Los bosques secundarios son bosques que vuelven a crecer naturalmente después de la eliminación casi completa de la cubierta forestal para su uso antropogénico (generalmente para el cultivo migratorio, convencional o la ganadería). Actualmente, más de la mitad de los bosques tropicales del mundo no son bosques antiguos, sino bosques en regeneración natural de los cuales una gran parte es bosque secundario. En América Latina tropical, los bosques secundarios cubren hasta el 28% de la superficie terrestre.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Licenciatura | Francisco Mora</title>
+    <link>/tag/licenciatura/</link>
+      <atom:link href="/tag/licenciatura/index.xml" rel="self" type="application/rss+xml" />
+    <description>Licenciatura</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Licenciatura</title>
+      <link>/tag/licenciatura/</link>
+    </image>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/courses/licenciatura/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/courses/licenciatura/</guid>
+      <description>&lt;p&gt;Impartimos algunas asignaturas en las licenciaturas de la &lt;em&gt;Escuela Nacional de Estudios Superiores&lt;/em&gt; - Unidad Morelia&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;../ambientales.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;En la licenciatura de Ciencias Ambientales participamos con la asignatura de &lt;strong&gt;Modelación estadistica&lt;/strong&gt; en la cual {Objetivo de la materia}&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;../ecologia.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;En la licenciatura de Ecología participamos con la asignatura de &lt;strong&gt;Ecología de comunidades: Métodos y Herramientas&lt;/strong&gt; en la cual {Objetivo de la materia}&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
