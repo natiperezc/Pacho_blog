@@ -3,7 +3,7 @@ title: Posgrado
 summary: Cursos en los que participo en posgrado
 tags:
 - posgrado
-date: "2020-05-27T00:00:00Z"
+date: "2020-05-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
