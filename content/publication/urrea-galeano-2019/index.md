@@ -11,7 +11,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
@@ -23,7 +23,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: El objetivo de nuestro estudio fue evaluar los efectos de la actividad de los escarabajos peloteros en la distribución espacial de las semillas y las plántulas, y en la probabilidad de establecimiento de las mismas.
 tags:
-- Source Themes
+- seed dispersal
 title: Horizontal seed dispersal by dung beetles reduced seed and seedling clumping, but did not increase short-term seedling establishment
 url_code: ""
 url_dataset: ""

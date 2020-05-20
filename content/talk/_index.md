@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Novedades
+title: Cursos
 view: 2
 ---

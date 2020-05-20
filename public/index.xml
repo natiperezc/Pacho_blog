@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Mora</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Francisco Mora</title>
@@ -13,25 +13,11 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Academic&amp;rsquo;s 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using 
-&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further talk details can easily be added to this page using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <title>Cursos</title>
+      <link>/cursos/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cursos/projects/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -44,6 +30,25 @@
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/talk/licenciatura/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/licenciatura/</guid>
+      <description>&lt;h2 id=&#34;1-ecología-de-comunidades-métodos-y-herramientas&#34;&gt;1. Ecología de Comunidades. Métodos y Herramientas&lt;/h2&gt;
+&lt;p&gt;El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
+comunidades bióticas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-modelación-estadística&#34;&gt;2. Modelación Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;3-ecología-de-poblaciones-y-comunidades&#34;&gt;3. Ecología de Poblaciones y Comunidades&lt;/h2&gt;
+&lt;h2 id=&#34;4-ejercicio-de-integración&#34;&gt;4. Ejercicio de Integración&lt;/h2&gt;
+&lt;h2 id=&#34;5-modelación-matemática&#34;&gt;5. Modelación Matemática&lt;/h2&gt;
+&lt;h2 id=&#34;6-introducción-a-la-estadística&#34;&gt;6. Introducción a la Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;7-estadística-ii&#34;&gt;7. Estadística II&lt;/h2&gt;
 </description>
     </item>
     
@@ -316,24 +321,6 @@ Three
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

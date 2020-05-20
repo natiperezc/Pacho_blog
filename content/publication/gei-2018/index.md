@@ -23,7 +23,7 @@ publishDate: "2018-05-28T00:00:00Z"
 slides: example
 summary: We show how the abundance of Leguminosae is affected by both recovery from disturbance and large-scale rainfall gradients through a synthesis of forest inventory plots from a network of 42 Neotropical forest chronosequences.
 tags:
-- Leguminosae
+- secondary forest
 title: Legume abundance along successional and rainfall gradients in Neotropical forests.
 url_code: ""
 url_dataset: ""

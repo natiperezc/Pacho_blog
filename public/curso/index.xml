@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos | Francisco Mora</title>
+    <link>/curso/</link>
+      <atom:link href="/curso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cursos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Cursos</title>
+      <link>/curso/</link>
+    </image>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/curso/licenciatura/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/curso/licenciatura/</guid>
+      <description>&lt;h2 id=&#34;1-ecología-de-comunidades-métodos-y-herramientas&#34;&gt;1. Ecología de Comunidades. Métodos y Herramientas&lt;/h2&gt;
+&lt;p&gt;El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
+comunidades bióticas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-modelación-estadística&#34;&gt;2. Modelación Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;3-ecología-de-poblaciones-y-comunidades&#34;&gt;3. Ecología de Poblaciones y Comunidades&lt;/h2&gt;
+&lt;h2 id=&#34;4-ejercicio-de-integración&#34;&gt;4. Ejercicio de Integración&lt;/h2&gt;
+&lt;h2 id=&#34;5-modelación-matemática&#34;&gt;5. Modelación Matemática&lt;/h2&gt;
+&lt;h2 id=&#34;6-introducción-a-la-estadística&#34;&gt;6. Introducción a la Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;7-estadística-ii&#34;&gt;7. Estadística II&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posgrado</title>
+      <link>/curso/posgrado/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/curso/posgrado/</guid>
+      <description>&lt;h2 id=&#34;1-diseño-experimental-y-modelado-estadístico-en-ecología&#34;&gt;1. Diseño experimental y modelado estadístico en ecología&lt;/h2&gt;
+&lt;p&gt;Introducir al estudiante en el universo de la modelación estadística fundamentada en el entendimiento de los diseños
+experimentales y de muestreo más comunes en el área de la ecología.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2020-1/dise%C3%B1o_experimental_y_modelado_estadistico_en_ecologia.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-introducción-al-lenguaje-r&#34;&gt;2. Introducción al Lenguaje R&lt;/h2&gt;
+&lt;p&gt;El objetivo de este curso es que el alumno comprenda los fundamentos del lenguaje de programación “R” y los aplique en sus trabajos de investigación&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2020-2/introduccion_al_lenguaje__r.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-métodos-multivariados&#34;&gt;3. Métodos multivariados&lt;/h2&gt;
+&lt;p&gt;El estudiante aprenderá las principales técnicas de análisis multivariado y desarrollará las capacidades
+para aplicarlos en casos de estudio&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2018-2/introduccion_al_estudio_de_los_metodos_multivariados.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-estadística-en-ecología&#34;&gt;4. Estadística en Ecología&lt;/h2&gt;
+&lt;p&gt;Ofrecer las nociones de estadística necesarias para que el alumno sea capaz de: (1) comprender los análisis estadísticos
+presentados en artículos científicos, (2) plantear preguntas ecológicas relevantes en términos estadísticos, (3) elaborar
+diseños de muestreo y de experimentación en el área de la ecología, (4) enfrentarse a ?situaciones reales? que requieren
+el uso de herramientas estadísticas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://pcbiol.posgrado.unam.mx/programas_cursos/2019-2/estadistica_en_ecologia.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;5-herramientas-analíticas-en-las-ciencias-de-la-sostenibilidad&#34;&gt;5. Herramientas analíticas en las ciencias de la sostenibilidad&lt;/h2&gt;
+&lt;p&gt;El alumno reconocerá las herramientas de análisis matemático que se utilizan en el planteamiento
+de estrategias sostenibles.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://sostenibilidad.posgrado.unam.mx/media/cursos/2/herramientas_analiticas_en_las_ciencias_de_la_sostenibilidad.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

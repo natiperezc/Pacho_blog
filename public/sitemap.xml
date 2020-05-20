@@ -3,28 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/posgrado/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/licenciatura/</loc>
-    <lastmod>2020-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
-    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+    <loc>/cursos/projects/</loc>
   </url>
   
   <url>
@@ -48,7 +27,17 @@
   </url>
   
   <url>
+    <loc>/cursos/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/ek-del-val/</loc>
+    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -88,6 +77,21 @@
   </url>
   
   <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/licenciatura/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/licenciatura/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/projects/escuela-de-metodos/</loc>
     <lastmod>2020-04-23T00:00:00+00:00</lastmod>
   </url>
@@ -118,6 +122,11 @@
   </url>
   
   <url>
+    <loc>/tag/carbon/</loc>
+    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/gavito-2019/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
@@ -129,11 +138,6 @@
   
   <url>
     <loc>/author/mayra-e.-gavito/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/source-themes/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,6 +377,11 @@
   </url>
   
   <url>
+    <loc>/tag/secondary-forest/</loc>
+    <lastmod>2018-10-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/secondary-forests/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
   </url>
@@ -380,21 +389,6 @@
   <url>
     <loc>/tag/tropical-dry-forest/</loc>
     <lastmod>2018-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -444,11 +438,6 @@
   
   <url>
     <loc>/publication/gei-2018/</loc>
-    <lastmod>2018-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/leguminosae/</loc>
     <lastmod>2018-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -763,7 +752,12 @@
   </url>
   
   <url>
-    <loc>/tag/colonmbia/</loc>
+    <loc>/tag/seed-dispersal/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/colombia/</loc>
     <lastmod>2007-04-22T00:00:00+00:00</lastmod>
   </url>
   

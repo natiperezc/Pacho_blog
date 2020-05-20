@@ -21,7 +21,7 @@ publishDate: "2007-04-22T00:00:00Z"
 slides: example
 summary: Demostramos que al cabo de un año, parte de las semillas se encuentra en un estado de latencia impuesta y que ambas especies tienen lacapacidad de formar bancos de semillas persistente.
 tags:
-- Colonmbia
+- Colombia
 - páramo
 title: Dinámica de la germinación, latencia de semillas y reclutamiento de plántulas en Puya cryptantha y P. trianae, dos rosetas gigantes de los páramos colombianos
 url_code: ""
