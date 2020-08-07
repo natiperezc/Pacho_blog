@@ -21,6 +21,20 @@
     </item>
     
     <item>
+      <title>Improving the accuracy of aboveground biomass estimations in secondary tropical dry forests</title>
+      <link>/publication/bojorquez-2020/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/bojorquez-2020/</guid>
+      <description>&lt;p&gt;Biomass estimates in tropical forests are mainly available for old-growth forests, but the expansion of tropical secondary forests urges the development of tools for more accurate estimations of biomass and carbon pools. In this study, we developed local allometric models to estimate aboveground biomass in secondary tropical dry forests of the Chamela region in western Mexico and compared their accuracy to that of non-local (“foreign”) allometric models. We harvested 303 trees from 27 woody species contributing ≥75% of total basal area in secondary forest plots (5–45 y-old) distributed across the landscape. Nine to 14 individuals per species, covering the full natural range in stem diameter (DBH) found in an inventory, were measured for DBH and height (H) before harvesting. Subsamples from each stem and branches were used for dry mass and wood specific density (WSD) determinations. Power model functions were fitted to relate tree AGB to one or a multiplicative combination of three predictors (DBH, H, and WSD). Species-specific models with DBH alone explained a high percentage of the variance in tree AGB (R2 = 0.927 to 0.999). Among our multispecies models, fit and prediction of biomass improved when pooling the species into low and high WSD functional groups. Using local or global WSD data did not affect the accuracy of our multispecies models. In contrast, bias increased in foreign models with the use of global WSD values. We discuss the applicability of our allometric models and foreign models to improve the accuracy of biomass predictions in secondary tropical dry forests.&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>ReserBos</title>
       <link>/proyectos/reserbos/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
@@ -34,7 +48,13 @@ de servicios que éstos ofrecen a la sociedad. Específicamente nos centramos en
 &lt;p&gt;&lt;img src=&#34;medicion.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;campo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;posibilidades-de-tesis&#34;&gt;Posibilidades de tesis&lt;/h2&gt;
-&lt;p&gt;El proyecto es desarrollado en colaboración con el laboratorio de 
+&lt;p&gt;Si quieres desarrollar tu tesis con nosotros, nos interesa investigar sobre:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Este proyecto es desarrollado en colaboración con el laboratorio de 
 &lt;a href=&#34;http://www.iies.unam.mx/laboratorios/biodiversidad-bienestar-humano/proyectos/#costa-jalisco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt; biodiversidad y bienestar humano &lt;/span&gt;&lt;/a&gt; del instituto de investigaciones en ecosistemas y sustentabilidad.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;equipo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 </description>
