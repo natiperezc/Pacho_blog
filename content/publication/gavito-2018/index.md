@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-10-15T00:00:00Z"
-slides: example
+#slides: example
 summary: Nutrient availability and litter decomposition rates recovered but litter quality did not.
 tags:
 - Resilience
@@ -31,7 +31,7 @@ tags:
 title: Resilience of soil nutrient availability and organic matter decomposition to hurricane impact in a tropical dry forest ecosystem
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378112717311052
+#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0378112717311052
 url_poster: ""
 url_project: ""
 url_slides: ""

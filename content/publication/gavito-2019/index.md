@@ -21,14 +21,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-05-24T00:00:00Z"
-slides: example
+#slides: example
 summary: This is the first direct experimental evidence for the C sink strength effects exerted by arbuscular mycorrhizal symbionts on plant photosynthesis. It encourages further experimentation on mycorrhizal source–sink relations, and may have strong implications in large‐scale assessments and modelling of plant photosynthesis.
 tags:
 - carbon
 title: Direct evidence for modulation of photosynthesis by an arbuscular mycorrhiza-induced carbon sink strength
 url_code: ""
 url_dataset: ""
-url_pdf: https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15806
+#url_pdf: https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.15806
 url_poster: ""
 url_project: ""
 url_slides: ""

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maga Gei | Francisco Mora</title>
+    <link>/author/maga-gei/</link>
+      <atom:link href="/author/maga-gei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maga Gei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 May 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Maga Gei</title>
+      <link>/author/maga-gei/</link>
+    </image>
+    
+    <item>
+      <title>Legume abundance along successional and rainfall gradients in Neotropical forests.</title>
+      <link>/publication/gei-2018/</link>
+      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/gei-2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

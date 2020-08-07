@@ -17,7 +17,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2006-05-06T00:00:00Z"
-slides: example
+slides: 
 summary: La comparación de colecciones de Euphorbia elata provenientes de toda su área de distribución, con especímenes de E. sinclairiana de su única localidad conocida, la isla de Gorgona, frente a la costa Pacífica de Colombia, muestran que ambas entidades deben tratarse como coespecíficas, bajo el nombre E. sinclairiana, que es el más antiguo.
 tags:
 - taxonomy

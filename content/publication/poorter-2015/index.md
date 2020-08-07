@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2015-09-08T00:00:00Z"
-slides: example
+slides: 
 summary: Biodiversity has an independent, positive effect on AGB and ecosystem functioning, not only in relatively simple temperate systems but also in structurally complex hyperdiverse tropical forests. Biodiversity conservation should therefore be a key component of the UN Reducing Emissions from Deforestation and Degradation strategy.
 tags:
 - biomass

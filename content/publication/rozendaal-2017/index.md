@@ -35,14 +35,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-08-25T00:00:00Z"
-slides: example
+slides: 
 summary: Our results indicate that biomass dynamics during succession are faster in Neotropical wet than dry forests, with high tree mortality earlier in succession in the wet forests.
 tags:
 - Secondary forests
 title: Demographic Drivers of Aboveground Biomass Dynamics During Secondary Succession in Neotropical Dry and Wet Forests
 url_code: ""
 url_dataset: ""
-url_pdf: https://link.springer.com/article/10.1007/s10021-016-0029-4#citeas
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

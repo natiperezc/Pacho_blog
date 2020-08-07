@@ -18,7 +18,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2007-04-22T00:00:00Z"
-slides: example
+slides: 
 summary: Demostramos que al cabo de un año, parte de las semillas se encuentra en un estado de latencia impuesta y que ambas especies tienen lacapacidad de formar bancos de semillas persistente.
 tags:
 - Colombia

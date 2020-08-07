@@ -20,7 +20,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-10-15T00:00:00Z"
-slides: example
+#slides: example
 summary: Secondary forests can be resilient through either high resistance or recovery rate.
 tags:
 - Secondary forests

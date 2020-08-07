@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Francisco Mora</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jun 2018 00:00:00 +0100</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Francisco Mora</title>
@@ -18,6 +18,40 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/cursos/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>ReserBos</title>
+      <link>/proyectos/reserbos/</link>
+      <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/proyectos/reserbos/</guid>
+      <description>&lt;h2 id=&#34;proyecto-reserbos---chamela&#34;&gt;Proyecto ReserBos - Chamela&lt;/h2&gt;
+&lt;h3 id=&#34;sucesión-secundaria-en-bosques-tropicales-recuperando-la-biodiversidad-servicios-y-funciones-del-ecosistema&#34;&gt;Sucesión secundaria en bosques tropicales: recuperando la biodiversidad, servicios y funciones del ecosistema&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;bosque.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;El objetivo del proyecto es estudiar la dinámica de los bosques tropicales secos secundarios y su manejo para contribuir al mantenimiento de su biodiversidad, sus funciones y asegurar el flujo
+de servicios que éstos ofrecen a la sociedad. Específicamente nos centramos en los factores biofísicos y de manejo que determinan la regeneracion de estos bosques.&lt;/p&gt;
+&lt;p&gt;Nuestros sitios de muestreos están ubicados en la costa de Jalisco en México, aledaños a la reserva de la Biosfera Chamela-Cuixmala. Allí contamos con un sistema de parcelas permanentes donde realizamos censos de plantas, muestreos de suelo y materia en descomposición. Además realizamos entrevistas semi-estructuradas a los habitantes de la zona con quienes trabajamos.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;medicion.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;campo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;posibilidades-de-tesis&#34;&gt;Posibilidades de tesis&lt;/h2&gt;
+&lt;p&gt;El proyecto es desarrollado en colaboración con el laboratorio de 
+&lt;a href=&#34;http://www.iies.unam.mx/laboratorios/biodiversidad-bienestar-humano/proyectos/#costa-jalisco&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt; biodiversidad y bienestar humano &lt;/span&gt;&lt;/a&gt; del instituto de investigaciones en ecosistemas y sustentabilidad.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;equipo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Economic valuation of ecosystem services from secondary tropical forests: trade-offs and implications for policy making</title>
+      <link>/publication/naime-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/naime-2020/</guid>
+      <description>&lt;p&gt;Natural regeneration of secondary forests can be an important source of recovery of ecosystem services (ES) critical for humanity, especially for climate change mitigation and adaptation goals. However, natural regeneration entails synergies and trade-offs across ESs and across stakeholders. To evaluate these trade-offs, we assessed the economic value of four ESs along the course of a natural regeneration process of tropical dry forests of the Pacific Coast of Mexico, and examined how this can inform the design of Payment for Ecosystem Services (PES) schemes incentivizing forest restoration. We estimated the monetary value of two provisioning ESs –forest products and fodder for calves–, using contingent valuation and direct market valuation methods, and two regulating ESs –carbon stocks and carbon sinks– using the voluntary carbon market prices and the social cost of carbon. We assessed these ESs in four natural regeneration stages: pasture, young secondary forest (0 to 12 years of natural regeneration), intermediate secondary forest (between 12 and 25 years of natural regeneration), and old-growth forest (more than 25 years of natural regeneration or primary forests).&lt;/p&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -359,6 +393,24 @@ Three
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Plant growth promotion traits of rhizosphere yeasts and their response to soil characteristics and crop cycle in maize agroecosystems</title>
       <link>/publication/sarabia-2018/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
@@ -393,6 +445,32 @@ Three
     </item>
     
     <item>
+      <title>Carbon Accumulation in Neotropical Dry Secondary Forests: The Roles of Forest Age and Tree Dominance and Diversity</title>
+      <link>/publication/mora-2018/</link>
+      <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/mora-2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phylogenetic classification of the world’s tropical forests</title>
+      <link>/publication/slik-2018/</link>
+      <pubDate>Mon, 20 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/slik-2018/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Resilience of Soil Properties to Land‐Use Change in a Tropical Dry Forest Ecosystem</title>
       <link>/publication/ayala-orozco-2018/</link>
       <pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
@@ -411,6 +489,14 @@ Three
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Trade-offs between ecosystem services and alternative pathways toward sustainability in a tropical dry forest region</title>
+      <link>/publication/mora-2016/</link>
+      <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/mora-2016/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -469,6 +555,32 @@ La agenda de investigación de esta Red fue definida con base en los grandes tem
       <link>/publication/urrea-galeano-2019/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       <guid>/publication/urrea-galeano-2019/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental gradients and the evolution of successional habitat specialization: a test case with 14 Neotropical forest sites</title>
+      <link>/publication/letcher-2015/</link>
+      <pubDate>Wed, 08 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/letcher-2015/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Manejo de bosques tropicales: bases científicas para la conservación, restauración y aprovechamiento de ecosistemas en paisajes rurales.</title>
+      <link>/publication/martinez-ramos-2011/</link>
+      <pubDate>Sat, 07 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/martinez-ramos-2011/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

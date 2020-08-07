@@ -8,7 +8,7 @@ authors:
 - Ek del-Val 
 date: "2020-05-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.agee.2020.106836"
-featured: true
+featured: false
 image:
   caption: ''
   focal_point: ""
@@ -27,7 +27,7 @@ tags:
 title: Assessing the cascading effects of management and landscape on the arthropod guilds occurring in papaya plantations
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167880920300219
+#url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167880920300219
 url_poster: ""
 url_project: ""
 #url_slides: ""

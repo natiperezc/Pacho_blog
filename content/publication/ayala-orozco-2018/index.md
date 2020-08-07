@@ -23,14 +23,14 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2016-12-14T00:00:00Z"
-slides: 
+#slides: 
 summary: 
 tags:
 - dry forest
 title: "Resilience of Soil Properties to Land‐Use Change in a Tropical Dry Forest Ecosystem"
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/ldr.2686
+#url_pdf: https://onlinelibrary.wiley.com/doi/abs/10.1002/ldr.2686
 url_poster: ""
 url_project: ""
 url_slides: ""

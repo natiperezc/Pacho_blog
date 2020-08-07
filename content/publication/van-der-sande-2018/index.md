@@ -34,7 +34,7 @@ tags:
 title: "Biodiversity in species, traits, and structure determines carbon stocks and uptake in tropical forests"
 url_code: ""
 url_dataset: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/btp.12453
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

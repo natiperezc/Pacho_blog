@@ -19,7 +19,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2019-04-22T00:00:00Z"
-slides: example
+slides: 
 summary: In wet forest, succession proceeds from low towards high community WD (acquisitive towards conservative trait values), in line with standard successional theory. However, in dry forest, succession proceeds from high towards low community WD (conservative towards acquisitive trait values), probably because high WD reflects drought tolerance in harsh early successional environments.
 tags:
 - Community ecology
@@ -28,7 +28,7 @@ tags:
 title: Wet and dry tropical forests show opposite successional pathways in wood density but converge over time
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.nature.com/articles/s41559-019-0882-6#Abs1
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""

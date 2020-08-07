@@ -21,7 +21,7 @@ publication_short: ""
 publication_types:
 - "2"
 publishDate: "2018-11-21T00:00:00Z"
-slides: example
+slides: 
 summary: 
 tags:
 - ejidos
@@ -32,7 +32,7 @@ tags:
 title: "Exploring How Land Tenure Affects Farmers’ Landscape Values: Evidence from a Choice Experiment"
 url_code: ""
 url_dataset: ""
-url_pdf: https://www.mdpi.com/2071-1050/10/11/4321
+url_pdf: 
 url_poster: ""
 url_project: ""
 url_slides: ""
