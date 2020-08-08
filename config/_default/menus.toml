@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Cursos"
-  url = "/talk"
+  url = "#cursos"
   weight = 55
 
 

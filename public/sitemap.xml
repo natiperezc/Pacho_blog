@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/cursos/projects/</loc>
-  </url>
-  
-  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-08-07T00:00:00+00:00</lastmod>
   </url>
@@ -127,12 +123,12 @@
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>/cursos/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/posgrado/</loc>
+    <loc>/cursos/posgrado/</loc>
     <lastmod>2020-05-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -157,11 +153,6 @@
   </url>
   
   <url>
-    <loc>/cursos/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/ek-del-val/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
@@ -182,7 +173,7 @@
   </url>
   
   <url>
-    <loc>/talk/licenciatura/</loc>
+    <loc>/cursos/licenciatura/</loc>
     <lastmod>2020-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -1069,6 +1060,18 @@
   <url>
     <loc>/publication/mora-2002/</loc>
     <lastmod>2002-07-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/licenciatura/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/posgrado/</loc>
   </url>
   
 </urlset>

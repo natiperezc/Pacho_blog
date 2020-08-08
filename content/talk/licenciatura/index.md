@@ -3,15 +3,15 @@ title: Licenciatura
 summary: Cursos impartidos a nivel licenciatura en la Escuela Nacional de Estudios Superiores unidad Morelia, UNAM
 tags:
 - licenciatura
-date: "2020-04-27T00:00:00Z"
-
+#date: "2020-04-27T00:00:00Z"
+showthedate: false
 # Optional external URL for project (replaces project detail page).
 #external_link: ""
 
 image:
   caption: 
   focal_point: Smart
-
+  preview_only: true
 #links:
 #- icon: facebook
 #  icon_pack: fab

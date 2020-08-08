@@ -14,8 +14,27 @@
     
     <item>
       <title>Licenciatura</title>
-      <link>/talk/licenciatura/</link>
+      <link>/cursos/licenciatura/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/cursos/licenciatura/</guid>
+      <description>&lt;h2 id=&#34;1-ecología-de-comunidades-métodos-y-herramientas&#34;&gt;1. Ecología de Comunidades. Métodos y Herramientas&lt;/h2&gt;
+&lt;p&gt;El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
+comunidades bióticas.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.ecologia.enesmorelia.unam.mx/pdf/66.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;span style=&#34;color:blue&#34;&gt;Puedes consultar el programa del curso aquí&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-modelación-estadística&#34;&gt;2. Modelación Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;3-ecología-de-poblaciones-y-comunidades&#34;&gt;3. Ecología de Poblaciones y Comunidades&lt;/h2&gt;
+&lt;h2 id=&#34;4-ejercicio-de-integración&#34;&gt;4. Ejercicio de Integración&lt;/h2&gt;
+&lt;h2 id=&#34;5-modelación-matemática&#34;&gt;5. Modelación Matemática&lt;/h2&gt;
+&lt;h2 id=&#34;6-introducción-a-la-estadística&#34;&gt;6. Introducción a la Estadística&lt;/h2&gt;
+&lt;h2 id=&#34;7-estadística-ii&#34;&gt;7. Estadística II&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Licenciatura</title>
+      <link>/talk/licenciatura/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/talk/licenciatura/</guid>
       <description>&lt;h2 id=&#34;1-ecología-de-comunidades-métodos-y-herramientas&#34;&gt;1. Ecología de Comunidades. Métodos y Herramientas&lt;/h2&gt;
 &lt;p&gt;El objetivo general de esta asignatura es comprender las metodologías y las técnicas analíticas empleadas en el estudio de las
